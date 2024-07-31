@@ -1,16 +1,13 @@
-## Hi there 👋
+## Bem vindo ao meu perfil
 
-<!--
-**Gabrielly141/Gabrielly141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Gabrielly 
 
-Here are some ideas to get you started:
+- Sou estudante da ROC (Rubens de Oliveira Camargo)
+- Estou me desenvolvendo no curso Alura em Robótica
+- Estou estou sendo mediada pela professora G0enera Valéria
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### PARA ENTRAR EM CONTATO COMIGO ACESSE 📫
+
+  00001105115495sp@al.educacao.sp.gov.br
+
+  
