@@ -4,7 +4,7 @@ Meu nome é Gabrielly
 
 - Sou estudante da ROC (Rubens de Oliveira Camargo)
 - Estou me desenvolvendo no curso Alura em Robótica
-- Estou estou sendo mediada pela professora G0enera Valéria
+- Estou estou sendo mediada pela professora Genera Valéria
 
   ### PARA ENTRAR EM CONTATO COMIGO ACESSE 📫
 
